@@ -1,5 +1,6 @@
 ﻿streamlit
 pytesseract
+PyMuPDF
 pdf2image
 langchain
 langchain-community
